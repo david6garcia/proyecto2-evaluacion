@@ -13,7 +13,15 @@ while opc!="q" and opc!="Q":
 		for d in datos:
 			print d["nombre"]
 	elif opc=="2":
-		print "2"
+		fechinsert=int(raw_input("Dime el año: "))
+		fechas=[]
+		fechasanterior=[]
+		fechasinvalidas=[]
+		for dat in datos:
+			x=str(dat["fconstitucion"])
+			f=x.split("T")
+			f1=f[0].split("-")
+			fechas.append(f1[0])
 	elif opc=="3":
 		print "3"
 	elif opc=="4":
