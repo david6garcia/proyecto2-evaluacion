@@ -12,6 +12,7 @@ while opc!="q" and opc!="Q":
 	if opc=="1":
 		for d in datos:
 			print d["nombre"]
+			
 	elif opc=="2":
 		fechinsert=int(raw_input("Dime el año: "))
 		fechas=[]
@@ -22,6 +23,12 @@ while opc!="q" and opc!="Q":
 			f=x.split("T")
 			f1=f[0].split("-")
 			fechas.append(f1[0])
+		for fec in fechas:
+			if fec!="":
+				if int(fec)<=fechinsert:
+					fechasanterior.append(fec)					
+		print "Existen %i asociaciones anteriores al año %i" % (len(fechasanterior),fechinsert)
+		
 	elif opc=="3":
 		print "3"
 	elif opc=="4":
