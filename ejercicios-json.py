@@ -17,7 +17,6 @@ while opc!="q" and opc!="Q":
 		fechinsert=int(raw_input("Dime el año: "))
 		fechas=[]
 		fechasanterior=[]
-		fechasinvalidas=[]
 		for dat in datos:
 			x=str(dat["fconstitucion"])
 			f=x.split("T")
@@ -30,7 +29,11 @@ while opc!="q" and opc!="Q":
 		print "Existen %i asociaciones anteriores al año %i" % (len(fechasanterior),fechinsert)
 		
 	elif opc=="3":
-		print "3"
+		comienzo=raw_input("Dime el comienzo del nombre de las asociaciones que quieres buscar: ")
+		print "\n"
+		for n in datos:
+			if n["nombre"].startswith(comienzo)==True:
+				print "%s se encuetra en %s \n" % (n["nombre"], n["direccion"])
 	elif opc=="4":
 		print "4"
 	elif opc=="5":
