@@ -1,0 +1,154 @@
+<bibliotecas>
+  <biblioteca>
+    <foto />
+    <idbiblio>1</idbiblio>
+    <nombre>Pilar Barnés</nombre>
+    <direccion>Plaza Real, 30800 Lorca</direccion>
+    <longitud>-1.6962478732787076</longitud>
+    <latitud>37.6773051387146</latitud>
+    <descripcion>Construida en el año 1999, situada en Plaza Real, cubre las necesidades de información para adultos, actuando de cabecera de la red y desde donde se coordina y gestiona todo el sistema. 
+</descripcion>
+  <horario>
+<lunes>9:00-21:00</lunes>
+<martes>9:00-21:00</martes>
+<miercoles>9:00-21:00</miercoles>
+<jueves>9:00-21:00</jueves>
+<viernes>9:00-21:00</viernes>
+<sabado>10:00-14:00</sabado>
+</horario>  
+  </biblioteca>
+  <biblioteca>
+    <foto />
+    <idbiblio>2</idbiblio>
+    <nombre>Biblioteca Infantil y Juvenil del Centro Cultural</nombre>
+    <direccion>C/ Presbítero Emilio García, 30800 Lorca</direccion>
+    <longitud>-1.6972295617781583</longitud>
+    <latitud>37.674171706943824</latitud>
+    <descripcion>Situada en la 3ª planta del Centro Cultural de la Ciudad, ofrece un servicio de biblioteca para niños y jóvenes hasta 15 años.&lt;br&gt;Así mismo en el Centro Cultural de la Ciudad existe en la planta sótano una Sala de Estudio con 126 puntos de lectura.
+</descripcion>
+<horario>
+<lunes>17:00-20:00</lunes>
+<martes>17:00-20:00</martes>
+<miercoles>17:00-20:00</miercoles>
+<jueves>17:00-20:00</jueves>
+<viernes>17:00-20:00</viernes>
+<sabado>10:00-14:00</sabado>
+</horario>
+  </biblioteca>
+  <biblioteca>
+    <foto />
+    <idbiblio>3</idbiblio>
+    <nombre>Biblioteca de La Paca</nombre>
+    <direccion>Centro de usos múltiples. Avda. Juan Carlos I, 5.  30812 La Paca - Lorca</direccion>
+    <longitud>-1.837741294743978</longitud>
+    <latitud>37.874456993165715</latitud>
+    <descripcion>Centro de usos múltiples. Avda. Juan Carlos I, 5.  La Paca.&lt;br&gt;Abierta a los vecinos desde el año 2003 con un pequeño lote de libros inicial. Desde 2007,  la Biblioteca pública ocupa una de las salas de la planta baja del nuevo  Centro  Municipal de Usos Múltiples.
+</descripcion>
+<horario>
+<martes>16:00-19:00</martes>
+<miercoles>16:00-19:00</miercoles>
+<jueves>16:00-19:00</jueves>
+</horario>
+  </biblioteca>
+  <biblioteca>
+    <foto />
+    <idbiblio>4</idbiblio>
+    <nombre>Biblioteca de Almendricos</nombre>
+    <direccion>Casa del médico. C/ Centro Rural s/n. 30893 Almendricos</direccion>
+    <longitud>-1.7759954266749673</longitud>
+    <latitud>37.47376251463214</latitud>
+    <descripcion>Está instalada en la reformada casa del médico, compartiendo local con la Sala de Nuevas Tecnologías.   Se abrió al público en el año 2006.
+</descripcion>
+<horario>
+<lunes>16:00-19:00</lunes>
+<martes>16:00-19:00</martes>
+<miercoles>16:00-19:00</miercoles>
+<jueves>16:00-19:00</jueves>
+</horario>
+  </biblioteca>
+  <biblioteca>
+    <foto />
+    <idbiblio>5</idbiblio>
+    <nombre>Biblioteca de Purias</nombre>
+    <direccion>Colegio público de Purias. C/ Cruce de Purias s/n.  30813 Purias</direccion>
+    <longitud>-1.67080991794694</longitud>
+    <latitud>37.57772327762831</latitud>
+    <descripcion>Se trata de una Biblioteca Integrada. Por acuerdo con la Dirección del Colegio Público de Purias, su  uso  es compartido como biblioteca escolar (horario de mañana) y biblioteca municipal (horario de tarde). Se inauguró en el mes de Abril de 2007.
+
+</descripcion>
+<horario>
+<martes>16:00-19:00</martes>
+<miercoles>16:00-19:00</miercoles>
+<jueves>16:00-19:00</jueves>
+</horario>
+  </biblioteca>
+  <biblioteca>
+    <foto />
+    <idbiblio>6</idbiblio>
+    <nombre>Biblioteca Pública Príncipe de Asturias</nombre>
+    <direccion>C/ Juan Antonio Dimas, 3. 30800 Lorca</direccion>
+    <longitud>-1.6905187897883707</longitud>
+    <latitud>37.67944602710972</latitud>
+    <descripcion>Biblioteca Integrada en este caso con un Instituto de Educación Secundaria. Por acuerdo con la Dirección de este  centro educativo, en el curso 2007/2008 se abrió la biblioteca del centro en horario extraescolar como servicio municipal. &lt;br&gt;Horario: Martes, Miércoles y Jueves 17 a 20 horas.
+</descripcion>
+<horario>
+<martes>17:00-20:00</martes>
+<miercoles>17:00-20:00</miercoles>
+<jueves>17:00-20:00</jueves>
+</horario>
+  </biblioteca>
+  <biblioteca>
+    <foto />
+    <idbiblio>7</idbiblio>
+    <nombre>Biblioteca Pública La Hoya</nombre>
+    <direccion>Colegio Público Juan Navarro. 30816 La Hoya</direccion>
+    <longitud>-1.5956310435026353</longitud>
+    <latitud>37.70679067481419</latitud>
+    <descripcion>En diciembre de 2008  en La Hoya, una de las pedanías lorquinas más pobladas, la biblioteca se instaló en un local de nueva construcción, independiente,  aunque ubicado dentro del recinto escolar del Colegio Público Juan Navarro. También, de acuerdo con el centro educativo, funciona como biblioteca escolar en horario de mañana y como biblioteca pública en horario de tarde.
+</descripcion>
+<horario>
+<martes>16:00-19:00</martes>
+<miercoles>16:00-19:00</miercoles>
+<jueves>16:00-19:00</jueves>
+</horario>
+  </biblioteca>
+  <biblioteca>
+    <foto />
+    <idbiblio>8</idbiblio>
+    <nombre>Biblioteca Pública Marchena-Aguaderas</nombre>
+    <direccion>Colegio Público de Marchena. 30815 Marchena</direccion>
+    <longitud>-1.643256346771068</longitud>
+    <latitud>37.66757363372976</latitud>
+    <descripcion>En  Febrero de 2009,  la Biblioteca Pública Marchena ? Aguaderas abría sus puertas como biblioteca integrada. Debe su nombre a que da  servicio a los vecinos de estas dos pedanías colindantes. Esta  biblioteca ocupa el local de la Biblioteca Escolar del CEIP Narciso Yepes de Marchena y también tiene doble uso.</descripcion>
+ 
+<horario>
+<martes>16:00-19:00</martes>
+<miercoles>16:00-19:00</miercoles>
+<jueves>16:00-19:00</jueves>
+</horario>
+</biblioteca>
+  <biblioteca>
+    <foto />
+    <idbiblio>9</idbiblio>
+    <nombre>Biblioteca Pública Zarcilla de Ramos</nombre>
+    <direccion>CEIP  Zarcilla de Ramos. 30810</direccion>
+    <longitud>-1.8737092262946362</longitud>
+    <latitud>37.84138406330094</latitud>
+    <descripcion>En Mayo de 2009, se celebraba la apertura del quinto centro integrado de la red municipal de bibliotecas, la denominada Biblioteca Pública Zarcilla de Ramos, situada en el CEIP de esta pedanía del norte, la mayor en extensión del término municipal. Además este colegio público tiene la particularidad de ser un CRA (Colegio Rural Agrupado) por lo que esta biblioteca sirve no sólo a los vecinos y el  colectivo escolar de Zarcilla de Ramos sino también al resto de comunidades rurales que cubre. </descripcion>
+  </biblioteca>
+  <biblioteca>
+    <foto />
+    <idbiblio>10</idbiblio>
+    <nombre>Biblioteca Pública Cazalla</nombre>
+    <direccion>CEIP Virgen de Las Huertas. 30818 Vereda Alta, Cazalla.</direccion>
+    <longitud>-1.6781493194214363</longitud>
+    <latitud>37.66087905547894</latitud>
+    <descripcion>En marzo de 2010, fue inaugurada una nueva biblioteca en la pedanía de Cazalla. Este nuevo centro comparte local con la ya existente  Biblioteca Escolar del CEIP Virgen de las Huertas. Se trata pues de una nueva Biblioteca Integrada (de doble uso, escolar y público), que da servicio a cerca de 3500 habitantes de las pedanías lorquinas de Cazalla y Pulgara.
+</descripcion>
+<horario>
+<martes>16:00-19:00</martes>
+<miercoles>16:00-19:00</miercoles>
+<jueves>16:00-19:00</jueves>
+</horario>
+  </biblioteca>
+</bibliotecas>
