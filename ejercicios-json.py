@@ -5,7 +5,7 @@ import json
 from pprint import pprint
 
 
-fichero=open("/media/DAVID/asociaciones-deportivas.json","r")
+fichero=open("/asociaciones-deportivas.json","r")
 datos=json.load(fichero)
 opc=raw_input("\n\n 1. Listar los nombres de las asociaciones deportivas de la provincia de Lorca.\n 2. Contar las asociaciones deportivas cuya fecha de constitución sea anterior a un año dado.\n 3. Listar las direcciones de las asociaciones deportivas que empiecen por una letra dada.\n 4. Mostrar el teléfono de contacto de una asociación buscada.\n 5. Listar los nombres y los correos electrónicos de aquellas asociaciones cuyo correo electrónico sea de gmail.\n Q  Para salir\n\nElige una opcion: ")
 print "\n"
