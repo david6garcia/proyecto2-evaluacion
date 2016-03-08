@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 from lxml import etree
-doc=etree.parse('/media/DAVID/bibliotecas.xml')
+doc=etree.parse('/bibliotecas.xml')
 
 opc=raw_input("\n\n1. Listar el nombre de todas las Bibliotecas de la provincia de Lorca.\n2. Contar las bibliotecas que abren los Sábados.\n3. Listar las bibliotecas que empiecen por una letra indicada.\n4. Mostrar el horario de una biblioteca buscada.\n5. Mostrar las coordenadas de una biblioteca buscada.\nQ Para salir\n\nElige una opcion: ")
 print "\n"
